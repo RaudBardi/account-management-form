@@ -26,7 +26,7 @@
 ## Установка и запуск
 
 1. Клонировать репозиторий:
-- git clone <repository-url>
+- git clone https://github.com/RaudBardi/account-management-form
 - cd account-management-form
 - npm install
 
@@ -37,4 +37,4 @@ npm run dev
 npm run build
 
 📄 Лицензия
-MIT © 2025 [Vova.Zubkov]
+MIT © 2025 [RaudBardi/Vladimir Zubkov]
